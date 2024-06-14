@@ -39,6 +39,4 @@ This project implements a Natural Language Query Agent that can answer questions
     python main.py
     ```
 
-## License
 
-This project is licensed under the MIT License.
